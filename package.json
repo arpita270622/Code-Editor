@@ -1,1 +1,1 @@
-{"scripts":{"start":"node server.js","server":"nodemon server.js","client":"cd client && npm start","build":"cd client && npm install && npm run build"},"dependencies":{"express":"^5.1.0"}}
+{"scripts":{"start":"node server.js","server":"nodemon server.js","client":"cd client && npm start","build":"cd client && npm install && npm run build"},"dependencies":{"cors":"^2.8.5","express":"^5.1.0","socket.io":"^4.8.1"}}
